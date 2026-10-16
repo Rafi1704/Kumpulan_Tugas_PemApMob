@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447426904017",
+    "project_id": "pemrogmobile-b5e14",
+    "storage_bucket": "pemrogmobile-b5e14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447426904017:android:3d866753f003768adceaf0",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgWZpVFk_QaR31iD9Qmur4p-qGCENa1-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447426904017:android:b2a65d4ba901d3e6dceaf0",
+        "android_client_info": {
+          "package_name": "com.example.tugas_pertemuan_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgWZpVFk_QaR31iD9Qmur4p-qGCENa1-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
